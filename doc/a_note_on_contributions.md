@@ -1,17 +1,13 @@
 ### A Note on Contributions
 
-Whenever we have team projects, there are always concerns on unequal contributions from members of a project team. In the ideal world, we are all here to put in our best efforts and learn together. Even in that ideal world, we have different skill sets and preparations, and we will still contribute differently to a project. 
-
-Therefore, you are required to post a *contribution statement* in the root README.md of your GitHub repo. Please beware that your GitHub repo will become public and remain public after the due date of the projects. 
-
-Post your title, team members, project abstract and a contribution statement in the README.md file.  This is a common practice for research scientific journals. 
-
 ---
 
 Project: LinkNYC free Wi-Fi impacts on residents
 
 Team members: Ferra Suryani, Fu Wang, Jiaxi Fang, Ruiyu Zhang
 
-Summary: In this project, we developed a new method and improved the classification accuracy for images of cats and dogs to 99.9%
+Summary: In this project, we dive deep into how LinkNYC free WiFi program brings an impactful contribution in making daily lives any better to the NY community (before and during COVID-19 pandemic). Investigations were done by digging into how the kiosk installation progresses over the years and monitoring usage trends within the last 5 years across the NY state.
 
 [Contribution Statement] AB, CD, EF and GH designed the study. AB and CD developed baseline classification model for evaluation. EF and GH explored feature engineering for improving the baseline model. AB, EF and GH discussed and designed the model evaluation protocol. CD carried out the computation for model evaluation. All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+
+Ferra designed the study. Ferra carried out the skeleton of the RShiny webapp. Fu took part in cleaning the datasets. Ferra, Fu, and Jiaxi came up with the visualizations. Ruiyu developed the About page to summarize the project overview. Ruiyu prepared the presentation and presented the project on behalf of the team. All team members contributed to the GitHub repository. All team members approve our work presented in our GitHub repository including this contribution statement.
